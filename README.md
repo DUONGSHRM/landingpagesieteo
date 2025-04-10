@@ -1,5 +1,3 @@
-# landingpagesieteo
-Chương trình siết eo với Latex hè 2025
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { CheckCircle, Gift, Video, NotebookPen, MoveUpRight, Clock } from "lucide-react";
